@@ -4,7 +4,7 @@ window.addEventListener('load', function() {
   loader.classList.add('hidden');
 })
 
-
+// navbar
 const nav = document.getElementById("nav");
 const open = document.getElementById("open");
 const close = document.getElementById("close");
